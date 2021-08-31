@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> The chatroom uses socket programming to have real time chatting. The user can create his/her own room and start chatting with friends just by sharing the room name.   > You can use the application at https://geetansh2k1-chat-room-server.netlify.app/
+> The chatroom uses socket programming to have real time chatting. The user can create his/her own room and start chatting with friends just by sharing the room name.   You can use the application at https://geetansh2k1-chat-room-server.netlify.app/
 
 ## Preview
 
